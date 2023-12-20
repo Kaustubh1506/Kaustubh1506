@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 <ul dir="auto">
-<li>🔭 I am Currently working as <strong>Data Scientist(Sr.AWS AI ML Solution Architect)</strong> at <a href="https://www.semantictech.in" rel="nofollow">Semantic Technologies</a></li>
+<li>🔭 I am Currently working as <strong>Data Scientist(AI ML Solution Architect)</strong> at <a href="https://www.semantictech.in" rel="nofollow">Semantic Technologies</a></li>
 </ul>
 <ul dir="auto">
 <li>
@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 <p dir="auto">👯 I’m collaborator in <code>keras</code>, <code>tensorflow</code> and looking for more collaboration.</p>
 </li>
 <li>
-<p dir="auto">🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.</p>
+<p dir="auto">🥅 2024 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.</p>
 </li>
 <li>
 <p dir="auto">⚡ Fun fact: I love to code.</p>

@@ -32,22 +32,7 @@ You can click the Preview link to take a look at your changes.
 <p dir="auto">⚡ Fun fact: I love to code.</p>
 </li>
 </ul>
-<hr>
-<table>
-<thead>
-<tr>
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/df2d9285d1dbb723821f01b52c8f22a4c8001ff49c6f747a263f442d6c3e4e75/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d617368697368706174656c32362673686f775f69636f6e733d74727565267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/df2d9285d1dbb723821f01b52c8f22a4c8001ff49c6f747a263f442d6c3e4e75/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d617368697368706174656c32362673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ashishpatel26&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;"></a></th>
-<th><a href="https://git.io/streak-stats" rel="nofollow"><img src="https://camo.githubusercontent.com/c70c987729b955d91b2403b533c9cfd5d2497c03dba3e8bc7e6bbad5f2ec1bd9/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d617368697368706174656c3236267468656d653d6461726b26626f726465725f7261646975733d37266d6f64653d7765656b6c79" alt="Ashish Patel's Stri" data-canonical-src="https://streak-stats.demolab.com?user=ashishpatel26&amp;theme=dark&amp;border_radius=7&amp;mode=weekly" style="max-width: 100%;"></a></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/65a8fd0a3b2e928a804dc07ae0b7dfededc0307c2c183336eb0bcd2aa2ef50b7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d617368697368706174656c3236266c61796f75743d636f6d70616374262673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&amp;layout=compact&amp;&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;"></a></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://camo.githubusercontent.com/e22839c8fb63fb27280c20f3b89feaba52da7e0acf6b48c6a2a611f51f57a593/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d617368697368706174656c32362662675f636f6c6f723d31323132313226636f6c6f723d643031626334266c696e653d39653463393826706f696e743d64643133613726617265613d7472756526686964655f626f726465723d74727565" alt="Ashish Patel's github activity graph" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=ashishpatel26&amp;bg_color=121212&amp;color=d01bc4&amp;line=9e4c98&amp;point=dd13a7&amp;area=true&amp;hide_border=true" style="max-width: 100%;"></a></p>
+
 <h2 dir="auto"><a id="user-content--technologies-i-use" class="anchor" aria-hidden="true" tabindex="-1" href="#-technologies-i-use"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>⚡ Technologies I use</h2>
 <div align="center" dir="auto">
 <table align="center">
@@ -128,8 +113,4 @@ You can click the Preview link to take a look at your changes.
 </tr>
 </tbody>
 </table>
-<h3 dir="auto"><a id="user-content-important-repository" class="anchor" aria-hidden="true" tabindex="-1" href="#important-repository"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Important Repository</h3>
-<p dir="auto">💾 365 Days of Computer Vision - <a href="https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post">🔗</a></p>
-<hr>
-<p dir="auto"><em><strong>Thanks for visit my profile.</strong></em></p>
 </article>

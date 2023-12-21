@@ -43,7 +43,10 @@ You can click the Preview link to take a look at your changes.
 <p dir="auto">⚡ Fun fact: I love to code.</p>
 </li>
 </ul>
-
+<hr> == $0
+::before
+::after
+</hr>
 
 <div align="center" dir="auto">
 <table align="center">

@@ -8,42 +8,6 @@
 Kaustubh1506/Kaustubh1506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><ul dir="auto">
-
-<img style="height:auto;" alt="View Kaustubh1506's full-sized avatar" src="https://avatars.githubusercontent.com/u/3095771?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
-<div class="vcard-names-container float-left js-profile-editable-names col-12 py-3 js-sticky js-user-profile-sticky-fields" data-original-top="0px" style="position: sticky;">
-      <h1 class="vcard-names ">
-        <span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name">
-          Kaustubh Bhendarkar
-        </span>
-        <span class="p-nickname vcard-username d-block" itemprop="additionalName">
-          Kaustubh1506
-
-        </span>
-      </h1>
-    </div>
-<div class="d-flex flex-lg-row flex-md-column">
-              <div class="flex-1 mb-0 mb-md-3">
-                <div class="js-user-profile-follow-button pb-1 mb-n1 is-placeholder" style="visibility: hidden; display: block; height: 4px;"></div><div class="js-sticky js-user-profile-follow-button pb-1 mb-n1 is-stuck" data-original-top="526px" style="position: fixed; top: 526px !important; left: 24px; width: 256px; margin-top: 0px;"></div>
-                
-  <span class="user-following-container js-form-toggle-container">
-      <!-- '"` --><!-- </textarea></xmp> --><form class="js-form-toggle-target" data-sr-feedback="You are following Kaustubh1506" data-turbo="false" action="/users/follow?target=ashishpatel26" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IgoJf0G77O1VBJf_d1UBK0HcixijnPA94j1w6fLhYXtXGa3Cd0aV84xWoHJfqp6_HJDB6WwWHxg7jFlvVqosuw">
-        <input type="submit" name="commit" value="Follow" class="btn btn-block" title="Follow ashishpatel26" aria-label="Follow Kaustubh1506" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:3095771,&quot;target&quot;:&quot;FOLLOW_BUTTON&quot;,&quot;user_id&quot;:140096810,&quot;originating_url&quot;:&quot;https://github.com/ashishpatel26&quot;}}" data-hydro-click-hmac="df90f99d0c128861e788bd2660965911913cc797353bd215dd303214232c6a6e" data-disable-with="Follow">
-</form>
-    <!-- '"` --><!-- </textarea></xmp> --><form class="js-form-toggle-target" hidden="hidden" data-sr-feedback="You are unfollowing ashishpatel26" data-turbo="false" action="/users/unfollow?target=ashishpatel26" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1gwlXH9t_-XNSnftBckATMGT3gh1q9eL7FT5Ws11WTypZ0jATTpVNMj345IB8JGgMTMTiYoyNgbLaQnFBHkxKQ">
-      <input type="submit" name="commit" value="Unfollow" class="btn btn-block" data-disable-with="Unfollow" title="Unfollow Kaustubh1506" aria-label="Unfollow ashishpatel26">
-</form>  </span>
-
-              </div>
-        </div>
-
-<div>AI Researcher &amp; Data Scientist at Semantic Technologies
-| </div>
-
-<hr>
-</hr>
-
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><ul dir="auto">
 <li>
 <h3 dir="auto"><a id="user-content-hi-there-im-kaustubh-bhendarkar" class="anchor" aria-hidden="true" tabindex="-1" href="#hi-there-im-kaustubh-bhendarkar"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Hi there, I'm Kaustubh Bhendarkar👋</h3>

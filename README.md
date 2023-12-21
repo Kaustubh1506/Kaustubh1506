@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Kaustubh1506
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 Kaustubh1506/Kaustubh1506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -34,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 <p dir="auto">🌱 I’m currently Learning Machine learning😎.</p>
 </li>
 <li>
-<p dir="auto">👯 I’m collaborator in <code>keras</code>, <code>tensorflow</code> and looking for more collaboration.</p>
+<p dir="auto">👯 I’m working on advanced frameworks like <code>keras</code>, <code>tensorflow</code> and looking for more collaboration.</p>
 </li>
 <li>
 <p dir="auto">🥅 2024 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.</p>

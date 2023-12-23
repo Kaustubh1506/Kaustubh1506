@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <ul dir="auto">
 <li>Laptop (I am using)
--<a href="https://www.userbenchmark.com/UserRun/54001935" rel="nofollow">UserBenchmarks: Game 64%, Desk 82%, Work 62%</a></li>
+-<a href="https://www.userbenchmark.com/UserRun/66668469" rel="nofollow">UserBenchmarks: Game 10%, Desk 57%, Work 9%</a></li>
 </ul>
 <table>
 <thead>
@@ -90,12 +90,12 @@ You can click the Preview link to take a look at your changes.
 <tbody>
 <tr>
 <td align="left"><strong>CPU</strong></td>
-<td align="left"><a href="https://cpu.userbenchmark.com/SpeedTest/1322918/IntelR-CoreTM-i7-10870H-CPU---220GHz" rel="nofollow">Intel Core i7-10870H</a></td>
-<td align="left">77.1%</td>
+<td align="left"><a href="https://cpu.userbenchmark.com/SpeedTest/1286124/11th-Gen-IntelR-CoreTM-i5-1135G7---240GHz" rel="nofollow">11th-Gen-IntelR-CoreTM-i5-1135G7</a></td>
+<td align="left">68.7%</td>
 </tr>
 <tr>
 <td align="left"><strong>GPU</strong></td>
-<td align="left"><a href="https://gpu.userbenchmark.com/SpeedTest/1027883/IntelR-UHD-Graphics" rel="nofollow">Intel UHD Graphics</a></td>
+<td align="left"><a href="https://gpu.userbenchmark.com/Faq/How-to-force-Optimus-or-Switchable-discrete-GPUs/97" rel="nofollow">Intel Iris Xe Graphics</a></td>
 <td align="left">4.8%</td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
 <tr>
 <td align="left"><strong>SSD</strong></td>
-<td align="left"><a href="https://ssd.userbenchmark.com/SpeedTest/963042/SAMSUNG-MZVLB1T0HBLR-00007" rel="nofollow">Samsung MZVLB1T0HBLR-00007 1TB</a></td>
+<td align="left"><a href="https://ssd.userbenchmark.com/SpeedTest/1180287/PC-SN530-NVMe-WDC-256GB" rel="nofollow">PC SN530 NVMe WDC 256GB</a></td>
 <td align="left">104.4%</td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
 <tr>
 <td align="left"><strong>MBD</strong></td>
-<td align="left"><a href="https://www.userbenchmark.com/System/Acer-Predator-PH315-53/193818" rel="nofollow">Acer Predator PH315-53</a></td>
+<td align="left"><a href="https://hdd.userbenchmark.com/SpeedTest/77223/WDC-WD10SPZX-00HKTT0" rel="nofollow">Dell Inspiron 15 3511 1TB</a></td>
 <td align="left"></td>
 </tr>
 </tbody>

@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
             <br> TensorFlow
         </td>
         <td align="center" width="140" height="112.43">
-            <a target="_blank" rel="noopener noreferrer" href="icons/pytorch.png"><img src="pytorch.png" width="65px" style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer" href="icons/pytorch.png"><img src="icons/pytorch.png" width="65px" style="max-width: 100%;"></a>
             <br> Pytorch
         </td>
         <td align="center" width="140" height="112.43">

@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
       <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
     </svg>
   </a>
-  I'm a Data Scientist, AI Researcher, and Machine Learning Practitioner
+  I'm a Data Analyst, AI Researcher, and Machine Learning Practitioner
   <a href="https://www.linkedin.com/in/kaustubh-bhendarkar-gis-data-analyst" rel="nofollow">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" style="max-width: 100%;">
   </a>
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 <ul dir="auto">
-<li>🔭 I am Currently working as <strong>Data Scientist(AI ML Solution Architect)</strong> at <a href="https://www.semantictech.in" rel="nofollow">Semantic Technologies</a></li>
+<li>🔭 I am Currently working as <strong>Data Analyst(AI ML Solution Architect)</strong> at <a href="https://www.semantictech.in" rel="nofollow">Semantic Technologies</a></li>
 </ul>
 <ul dir="auto">
 <li>

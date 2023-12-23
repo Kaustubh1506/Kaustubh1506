@@ -106,16 +106,16 @@ You can click the Preview link to take a look at your changes.
 <tr>
 <td align="left"><strong>SSD</strong></td>
 <td align="left"><a href="https://ssd.userbenchmark.com/SpeedTest/1180287/PC-SN530-NVMe-WDC-256GB" rel="nofollow">PC SN530 NVMe WDC 256GB</a></td>
-<td align="left">104.4%</td>
+<td align="left">86.8%</td>
 </tr>
 <tr>
 <td align="left"><strong>RAM</strong></td>
-<td align="left"><a href="https://ram.userbenchmark.com/SpeedTest/1166099/Hynix-HMAA2GS6AJR8N-XN-1x16GB" rel="nofollow">Hynix HMAA2GS6AJR8N-XN 1x16GB</a></td>
-<td align="left">37.8%</td>
+<td align="left"><a href="https://www.userbenchmark.com/UserRun/66668711" rel="nofollow">CT16G4SFRA32A.C8FF 01980000802C KKRVFX-MIE 24GB</a></td>
+<td align="left">67.7%</td>
 </tr>
 <tr>
 <td align="left"><strong>MBD</strong></td>
-<td align="left"><a href="https://hdd.userbenchmark.com/SpeedTest/77223/WDC-WD10SPZX-00HKTT0" rel="nofollow">Dell Inspiron 15 3511 1TB</a></td>
+<td align="left"><a href="https://www.userbenchmark.com/UserRun/66668711" rel="nofollow">Dell Inspiron 15 3511 1TB</a></td>
 <td align="left"></td>
 </tr>
 </tbody>

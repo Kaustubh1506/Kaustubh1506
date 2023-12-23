@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 <table align="center">
     <tbody><tr>
         <td align="center" width="140" height="112.43">
-            <a target="_blank" rel="noopener noreferrer" href="Kaustubh1506/python.jpeg"><img src="Kaustubh1506/python.jpeg" width="65px" style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer" href="icons/python.jpeg"><img src="icons/python.jpeg" width="65px" style="max-width: 100%;"></a>
             <br> Python
         </td>
         <td align="center" width="140" height="112.43">

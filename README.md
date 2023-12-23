@@ -115,7 +115,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
 <tr>
 <td align="left"><strong>MBD</strong></td>
-<td align="left"><a href="https://www.userbenchmark.com/UserRun/66668711" rel="nofollow">Dell Inspiron 15 3511 1TB</a></td>
+<td align="left"><a href="https://www.userbenchmark.com/UserRun/66668711" rel="nofollow">Dell Inspiron 15 3511</a></td>
 <td align="left"></td>
 </tr>
 </tbody>

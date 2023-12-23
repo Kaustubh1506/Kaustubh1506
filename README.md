@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
             <br> Python
         </td>
         <td align="center" width="140" height="112.43">
-            <a target="_blank" rel="noopener noreferrer" href="/ashishpatel26/ashishpatel26/blob/main/assets/icons/jupyter.png"><img src="/ashishpatel26/ashishpatel26/raw/main/assets/icons/jupyter.png" width="65px" style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer" href="icons/juputer.jpeg"><img src="icons/juputer.jpeg" width="65px" style="max-width: 100%;"></a>
             <br> Jupyter
         </td>
         <td align="center" width="140" height="112.43">
